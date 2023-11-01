@@ -1,0 +1,16 @@
+[
+    {
+        "id" : 1,
+        "name_client" : "Conway+",
+        "description" : "",
+        "image" : "https://conwayandpartners.com/wp-content/themes/conway/assets/img/Logo-Conway-1.png",
+        "url": "https://conwayandpartners.com/"
+    },
+    {
+        "id" : 2,
+        "name_client" : "Udaondo",
+        "description" : "",
+        "image" : "https://www.udaondobuenosaires.com/wp-content/uploads/2023/08/new_footer_logo.svg",
+        "url": "https://www.udaondobuenosaires.com/"
+    }
+]
