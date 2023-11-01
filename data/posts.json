@@ -12,5 +12,12 @@
         "description" : "",
         "image" : "https://www.udaondobuenosaires.com/wp-content/uploads/2023/08/new_footer_logo.svg",
         "url": "https://www.udaondobuenosaires.com/"
+    },
+    {
+        "id" : 3,
+        "name_client" : "GC-Seguridad",
+        "description" : "",
+        "image" : "https://www.gcseguridad.com.ar/imagenes/gc-seguridad-imagenes/img/logo.png",
+        "url": "https://www.gcseguridad.com.ar/"
     }
 ]
